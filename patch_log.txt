@@ -1,0 +1,179 @@
+2024-07-24 19:46:46 - Reading all messages.
+2024-07-24 19:46:46 - Starting to send messages to multiple recipients.
+2024-07-24 19:46:46 - Sending message process started.
+2024-07-24 19:46:46 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 19:46:46 - Searching for contact input field.
+2024-07-24 19:46:49 - Waiting for chat to load.
+2024-07-24 19:46:49 - Finding message input field and sending message.
+2024-07-24 19:46:50 - Finding send button and clicking it.
+2024-07-24 19:46:50 - Message sent to +972526004324: האם אתה זמין? (ענה "כן" או "לא")
+2024-07-24 19:47:00 - Sending message process started.
+2024-07-24 19:47:00 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 19:47:00 - Searching for contact input field.
+2024-07-24 19:47:01 - Error in send_message: Message: element click intercepted: Element <p class="selectable-text copyable-text x15bjb6t x1n2onr6">...</p> is not clickable at point (241, 83). Other element would receive the click: <h1 class="x1qlqyl8 x1pd3egz xcgk4ki" aria-label="">...</h1>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x000000010cf53078 chromedriver + 5169272
+1   chromedriver                        0x000000010cf4af4a chromedriver + 5136202
+2   chromedriver                        0x000000010cac736c chromedriver + 402284
+3   chromedriver                        0x000000010cb1b6b6 chromedriver + 747190
+4   chromedriver                        0x000000010cb194e8 chromedriver + 738536
+5   chromedriver                        0x000000010cb16ef7 chromedriver + 728823
+6   chromedriver                        0x000000010cb15d12 chromedriver + 724242
+7   chromedriver                        0x000000010cb09562 chromedriver + 673122
+8   chromedriver                        0x000000010cb37ab2 chromedriver + 862898
+9   chromedriver                        0x000000010cb08ed8 chromedriver + 671448
+10  chromedriver                        0x000000010cb37c6e chromedriver + 863342
+11  chromedriver                        0x000000010cb56f57 chromedriver + 991063
+12  chromedriver                        0x000000010cb37853 chromedriver + 862291
+13  chromedriver                        0x000000010cb075c6 chromedriver + 665030
+14  chromedriver                        0x000000010cb07e4e chromedriver + 667214
+15  chromedriver                        0x000000010cf15c90 chromedriver + 4918416
+16  chromedriver                        0x000000010cf1ac8d chromedriver + 4938893
+17  chromedriver                        0x000000010cf1b365 chromedriver + 4940645
+18  chromedriver                        0x000000010cef6d74 chromedriver + 4791668
+19  chromedriver                        0x000000010cf1b659 chromedriver + 4941401
+20  chromedriver                        0x000000010cee8544 chromedriver + 4732228
+21  chromedriver                        0x000000010cf3b828 chromedriver + 5072936
+22  chromedriver                        0x000000010cf3b9e7 chromedriver + 5073383
+23  chromedriver                        0x000000010cf4aafe chromedriver + 5135102
+24  libsystem_pthread.dylib             0x00007ff8152fb202 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff8152f6bab thread_start + 15
+
+2024-07-24 19:48:06 - Waiting for response from +972526004324.
+2024-07-24 19:48:06 - Waiting for response from +972526004324.
+2024-07-24 19:48:06 - Reading all messages.
+2024-07-24 19:48:06 - Reading all messages.
+2024-07-24 19:48:08 - Reading all messages.
+2024-07-24 19:48:10 - Reading all messages.
+2024-07-24 19:48:12 - Reading all messages.
+2024-07-24 19:58:07 - Reading all messages.
+2024-07-24 19:58:07 - Starting to send messages to multiple recipients.
+2024-07-24 19:58:07 - Sending message process started.
+2024-07-24 19:58:07 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 19:58:07 - Searching for contact input field.
+2024-07-24 19:58:09 - Error in send_message: Message: element click intercepted: Element <p class="selectable-text copyable-text x15bjb6t x1n2onr6">...</p> is not clickable at point (169, 83). Other element would receive the click: <h1 class="x1qlqyl8 x1pd3egz xcgk4ki" aria-label="">...</h1>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x000000010f0f7078 chromedriver + 5169272
+1   chromedriver                        0x000000010f0eef4a chromedriver + 5136202
+2   chromedriver                        0x000000010ec6b36c chromedriver + 402284
+3   chromedriver                        0x000000010ecbf6b6 chromedriver + 747190
+4   chromedriver                        0x000000010ecbd4e8 chromedriver + 738536
+5   chromedriver                        0x000000010ecbaef7 chromedriver + 728823
+6   chromedriver                        0x000000010ecb9d12 chromedriver + 724242
+7   chromedriver                        0x000000010ecad562 chromedriver + 673122
+8   chromedriver                        0x000000010ecdbab2 chromedriver + 862898
+9   chromedriver                        0x000000010ecaced8 chromedriver + 671448
+10  chromedriver                        0x000000010ecdbc6e chromedriver + 863342
+11  chromedriver                        0x000000010ecfaf57 chromedriver + 991063
+12  chromedriver                        0x000000010ecdb853 chromedriver + 862291
+13  chromedriver                        0x000000010ecab5c6 chromedriver + 665030
+14  chromedriver                        0x000000010ecabe4e chromedriver + 667214
+15  chromedriver                        0x000000010f0b9c90 chromedriver + 4918416
+16  chromedriver                        0x000000010f0bec8d chromedriver + 4938893
+17  chromedriver                        0x000000010f0bf365 chromedriver + 4940645
+18  chromedriver                        0x000000010f09ad74 chromedriver + 4791668
+19  chromedriver                        0x000000010f0bf659 chromedriver + 4941401
+20  chromedriver                        0x000000010f08c544 chromedriver + 4732228
+21  chromedriver                        0x000000010f0df828 chromedriver + 5072936
+22  chromedriver                        0x000000010f0df9e7 chromedriver + 5073383
+23  chromedriver                        0x000000010f0eeafe chromedriver + 5135102
+24  libsystem_pthread.dylib             0x00007ff8152fb202 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff8152f6bab thread_start + 15
+
+2024-07-24 19:58:14 - Sending message process started.
+2024-07-24 19:58:14 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 19:58:14 - Searching for contact input field.
+2024-07-24 19:58:15 - Error in send_message: Message: element click intercepted: Element <p class="selectable-text copyable-text x15bjb6t x1n2onr6">...</p> is not clickable at point (169, 83). Other element would receive the click: <h1 class="x1qlqyl8 x1pd3egz xcgk4ki" aria-label="">...</h1>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x000000010f0f7078 chromedriver + 5169272
+1   chromedriver                        0x000000010f0eef4a chromedriver + 5136202
+2   chromedriver                        0x000000010ec6b36c chromedriver + 402284
+3   chromedriver                        0x000000010ecbf6b6 chromedriver + 747190
+4   chromedriver                        0x000000010ecbd4e8 chromedriver + 738536
+5   chromedriver                        0x000000010ecbaef7 chromedriver + 728823
+6   chromedriver                        0x000000010ecb9d12 chromedriver + 724242
+7   chromedriver                        0x000000010ecad562 chromedriver + 673122
+8   chromedriver                        0x000000010ecdbab2 chromedriver + 862898
+9   chromedriver                        0x000000010ecaced8 chromedriver + 671448
+10  chromedriver                        0x000000010ecdbc6e chromedriver + 863342
+11  chromedriver                        0x000000010ecfaf57 chromedriver + 991063
+12  chromedriver                        0x000000010ecdb853 chromedriver + 862291
+13  chromedriver                        0x000000010ecab5c6 chromedriver + 665030
+14  chromedriver                        0x000000010ecabe4e chromedriver + 667214
+15  chromedriver                        0x000000010f0b9c90 chromedriver + 4918416
+16  chromedriver                        0x000000010f0bec8d chromedriver + 4938893
+17  chromedriver                        0x000000010f0bf365 chromedriver + 4940645
+18  chromedriver                        0x000000010f09ad74 chromedriver + 4791668
+19  chromedriver                        0x000000010f0bf659 chromedriver + 4941401
+20  chromedriver                        0x000000010f08c544 chromedriver + 4732228
+21  chromedriver                        0x000000010f0df828 chromedriver + 5072936
+22  chromedriver                        0x000000010f0df9e7 chromedriver + 5073383
+23  chromedriver                        0x000000010f0eeafe chromedriver + 5135102
+24  libsystem_pthread.dylib             0x00007ff8152fb202 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff8152f6bab thread_start + 15
+
+2024-07-24 19:59:20 - Waiting for response from +972549855103.
+2024-07-24 19:59:20 - Waiting for response from +972549855103.
+2024-07-24 19:59:20 - Reading all messages.
+2024-07-24 19:59:20 - Reading all messages.
+2024-07-24 19:59:22 - Reading all messages.
+2024-07-24 19:59:24 - Reading all messages.
+2024-07-24 19:59:26 - Reading all messages.
+2024-07-24 19:59:28 - Reading all messages.
+2024-07-24 19:59:30 - Reading all messages.
+2024-07-24 19:59:32 - Reading all messages.
+2024-07-24 19:59:34 - Reading all messages.
+2024-07-24 19:59:36 - Reading all messages.
+2024-07-24 19:59:38 - Reading all messages.
+2024-07-24 19:59:40 - Reading all messages.
+2024-07-24 19:59:42 - Reading all messages.
+2024-07-24 19:59:44 - Reading all messages.
+2024-07-24 19:59:46 - Reading all messages.
+2024-07-24 19:59:48 - Reading all messages.
+2024-07-24 19:59:50 - Reading all messages.
+2024-07-24 19:59:52 - Reading all messages.
+2024-07-24 20:04:28 - Reading all messages.
+2024-07-24 20:04:28 - Starting to send messages to multiple recipients.
+2024-07-24 20:04:28 - Sending message process started.
+2024-07-24 20:04:28 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 20:04:29 - Searching for contact input field.
+2024-07-24 20:04:32 - Waiting for chat to load.
+2024-07-24 20:04:32 - Finding message input field and sending message.
+2024-07-24 20:04:33 - Finding send button and clicking it.
+2024-07-24 20:04:33 - Message sent to +972526004324: האם אתה זמין? (ענה "כן" או "לא")
+2024-07-24 20:04:43 - Sending message process started.
+2024-07-24 20:04:43 - Attempting to click element with XPath: //*[@id="app"]/div/div[2]/div[3]/header/div[2]/div/span/div[5]/div
+2024-07-24 20:04:44 - Searching for contact input field.
+2024-07-24 20:04:45 - Error in send_message: Message: element click intercepted: Element <p class="selectable-text copyable-text x15bjb6t x1n2onr6">...</p> is not clickable at point (241, 83). Other element would receive the click: <h1 class="x1qlqyl8 x1pd3egz xcgk4ki" aria-label="">...</h1>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x000000010ef40078 chromedriver + 5169272
+1   chromedriver                        0x000000010ef37f4a chromedriver + 5136202
+2   chromedriver                        0x000000010eab436c chromedriver + 402284
+3   chromedriver                        0x000000010eb086b6 chromedriver + 747190
+4   chromedriver                        0x000000010eb064e8 chromedriver + 738536
+5   chromedriver                        0x000000010eb03ef7 chromedriver + 728823
+6   chromedriver                        0x000000010eb02d12 chromedriver + 724242
+7   chromedriver                        0x000000010eaf6562 chromedriver + 673122
+8   chromedriver                        0x000000010eb24ab2 chromedriver + 862898
+9   chromedriver                        0x000000010eaf5ed8 chromedriver + 671448
+10  chromedriver                        0x000000010eb24c6e chromedriver + 863342
+11  chromedriver                        0x000000010eb43f57 chromedriver + 991063
+12  chromedriver                        0x000000010eb24853 chromedriver + 862291
+13  chromedriver                        0x000000010eaf45c6 chromedriver + 665030
+14  chromedriver                        0x000000010eaf4e4e chromedriver + 667214
+15  chromedriver                        0x000000010ef02c90 chromedriver + 4918416
+16  chromedriver                        0x000000010ef07c8d chromedriver + 4938893
+17  chromedriver                        0x000000010ef08365 chromedriver + 4940645
+18  chromedriver                        0x000000010eee3d74 chromedriver + 4791668
+19  chromedriver                        0x000000010ef08659 chromedriver + 4941401
+20  chromedriver                        0x000000010eed5544 chromedriver + 4732228
+21  chromedriver                        0x000000010ef28828 chromedriver + 5072936
+22  chromedriver                        0x000000010ef289e7 chromedriver + 5073383
+23  chromedriver                        0x000000010ef37afe chromedriver + 5135102
+24  libsystem_pthread.dylib             0x00007ff8152fb202 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff8152f6bab thread_start + 15
+
